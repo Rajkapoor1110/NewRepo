@@ -1,0 +1,26 @@
+{
+      "Role": "Actor",
+      "Address": [
+        {
+          "Steet Name": "Siddharth Vihar",
+          "Address Type": "Primary",
+          "House No": "201",
+          "Country": "India",
+          "Apartment Name": "Prateek Grand City",
+          "City": "Delhi",
+          "Land Mark": "DPS School"
+        },
+        {
+          "Steet Name": "Ganga",
+          "Address Type": "Secondry",
+          "House No": "56",
+          "Country": "India",
+          "Apartment Name": "Gulshan Vivante",
+          "City": "Gujrat",
+          "Land Mark": "GTB Hospital"
+        }
+      ],
+      "FirstName": "Salman",
+      "LastName": "Khan",
+      "id": "SKSec"
+    }
